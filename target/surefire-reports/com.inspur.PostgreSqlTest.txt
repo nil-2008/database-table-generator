@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.inspur.PostgreSqlTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.296 s <<< FAILURE! - in com.inspur.PostgreSqlTest
+tttTest(com.inspur.PostgreSqlTest)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.inspur.PostgreSqlTest.tttTest(PostgreSqlTest.java:107)
+
